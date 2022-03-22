@@ -1,3 +1,8 @@
+# Author: Darshan Ghorpade
+# Location: Earth
+# Date: 22/03/2022
+
+
 # input function un python
 # This function allows the user to take inputs from the keyboard as a string
 

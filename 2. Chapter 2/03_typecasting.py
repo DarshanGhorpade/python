@@ -1,3 +1,8 @@
+# Author: Darshan Ghorpade
+# Location: Earth
+# Date: 22/03/2022
+
+
 # type function and typecasting
 # type function is used to find the datatype of given variable in python
 
