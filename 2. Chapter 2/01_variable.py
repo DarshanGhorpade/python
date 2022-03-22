@@ -49,3 +49,9 @@ print(type(d))
 # 5. None
 
 # Python is fantastic language that automatically identifies the type of data for us.
+
+
+# Rules of variable name
+# Variable name must start with alphabet or underscore.
+# Variable name can't start with digit or special symbol.
+# No white spaces allowed inside variable name.
