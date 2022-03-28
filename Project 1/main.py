@@ -38,7 +38,8 @@ def gameWin(comp, you):
             return True
 
 print("Comp Turn: Snake(s) Water(w) or Gun(g)? ")
-randomNo = random.randint(1, 3)
+randomNo = random.randint(1, 3)     # random.randomint(a, b): returns random integer between given range
+
 # print(randomNo)
 if randomNo == 1:
     comp = 's'
