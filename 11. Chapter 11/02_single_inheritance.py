@@ -2,11 +2,14 @@
 # Location: Earth
 # Date: 29/03/2022
 
-# Inheritance in python
-# Inheritance is a way of creating a new class from an existing class
-# We can use the methods and attributes of Employee in Programmer object.
-# Also, we can overwrite or add new attributes and methods in the Programmer class.
+# Types of Inheritance in python
+# 1. Single inheritance
+# 2. Multiple inheritance
+# 3. Multilevel inheritance
 
+# 1. Single inheritance
+# Single inheritance occurs when a child class inherits only a single parent class.
+# Base -> Derived
 class Employee:     # Base class
     company = "Google"
 
